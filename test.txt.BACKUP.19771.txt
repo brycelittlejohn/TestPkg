@@ -1,0 +1,18 @@
+WHAT THE FUCK!?!?!?!?!?
+
+Add something here in 1.
+
+Add smoething in 1 in a branch.
+
+Try again....
+
+OK, now again.
+
+Add something here in 2
+
+<<<<<<< HEAD
+Now, I added a branch; what is happening?
+=======
+Add something when there is a branch out there.
+
+>>>>>>> 8f18fc4abf764e8006831028dfc367359b90740d
